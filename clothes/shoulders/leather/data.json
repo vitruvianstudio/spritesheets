@@ -1,0 +1,55 @@
+{
+  "id": "clothes.shoulders.leather",
+  "name": "Leather",
+  "path": "clothes/shoulders/leather",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "adapted to female base by makrohn",
+    "adapted to v3 bases by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sj\u00f6lund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "http://opengameart.org/content/lpc-clothing-updates"
+  ]
+}

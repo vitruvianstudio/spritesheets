@@ -1,0 +1,52 @@
+{
+  "id": "clothes.eyes.patch",
+  "name": "Sunglasses",
+  "path": "clothes/eyes/patch",
+  "layers": {
+    "fg": {
+      "z": 15,
+      "conditions": {
+        "anatomy.head.human_male": ".",
+        "anatomy.head.human_male_elderly": ".",
+        "anatomy.head.human_male_gaunt": ".",
+        "anatomy.head.human_female": ".",
+        "anatomy.head.human_female_elderly": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "silver"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Michael Whitlock (bigbeargames)",
+    "Thane Brimhall (pennomi)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-base-character-expressions"
+  ]
+}

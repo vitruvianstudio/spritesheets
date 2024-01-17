@@ -1,0 +1,75 @@
+{
+  "id": "equipment.shield.kite",
+  "name": "Kite",
+  "path": "equipment/shield/kite",
+  "layers": {
+    "fg": {
+      "z": 110,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Frame",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Shield",
+      "palettes": [
+        "any"
+      ]
+    },
+    "tertiary": {
+      "name": "Emblem",
+      "palettes": [
+        "any"
+      ]
+    },
+    "quaternary": {
+      "name": "Handle",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "gold",
+    "secondary": "steel",
+    "tertiary": "blue",
+    "quaternary": "brown"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "DarkwallLKE",
+    "Tuomo Untinen (reemax)",
+    "Michael Whitlock (bigbeargames)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 2.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-kite-shield",
+    "https://opengameart.org/content/lpc-shields-pack"
+  ]
+}

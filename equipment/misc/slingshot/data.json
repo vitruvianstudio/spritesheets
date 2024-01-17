@@ -1,0 +1,74 @@
+{
+  "id": "equipment.misc.slingshot",
+  "name": "Slingshot",
+  "path": "equipment/misc/slingshot",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 9,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "shoot",
+    "walk"
+  ],
+  "sizes": {
+	"walk": "lg"
+  },
+  "materials": {
+    "primary": {
+      "name": "Bow",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    },
+    "tertiary": {
+      "name": "String",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "steel",
+    "tertiary": "white"
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "OGA-BY 3.0+",
+    "GPL 3.0",
+    "CC-BY 4.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-more-weapons"
+  ]
+}

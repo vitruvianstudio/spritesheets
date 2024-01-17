@@ -1,0 +1,56 @@
+{
+  "id": "clothes.feet.plate",
+  "name": "Armour",
+  "path": "clothes/feet/plate",
+  "layers": {
+    "fg": {
+      "z": 15,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "metall",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "steel"
+  },
+  "notes": [
+    "original by wulax",
+    "edited for female base by makrohn",
+    "recolors by bigbeargames",
+    "edits for v3 base and recolors by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sj\u00f6lund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "equipment.spears.spear",
+  "name": "Spear",
+  "path": "equipment/spears/spear",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Handle",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "steel"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Pierre Vigier (pvigier)",
+    "Johannes Sjölund (wulax)",
+    "Inboxninja"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-spear-and-shovel-reworked"
+  ]
+}

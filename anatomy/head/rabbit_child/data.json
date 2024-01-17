@@ -1,0 +1,51 @@
+{
+  "id": "anatomy.head.rabbit_child",
+  "name": "Rabbit_child",
+  "path": "anatomy/head/rabbit_child",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.child": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "original rabbit by Redshrike",
+    "adapted to modular head by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "OGA-BY 3.0",
+    "CC-BY 3.0",
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-folk",
+    "https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm"
+  ]
+}

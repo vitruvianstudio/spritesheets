@@ -1,0 +1,50 @@
+{
+  "id": "equipment.shield.spartan",
+  "name": "Spartan",
+  "path": "equipment/shield/spartan",
+  "layers": {
+    "fg": {
+      "z": 110,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Shield",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Sander Frenken (castelonia)"
+  ],
+  "licenses": [
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-shields"
+  ]
+}

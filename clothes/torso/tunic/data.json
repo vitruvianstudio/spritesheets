@@ -1,0 +1,58 @@
+{
+  "id": "clothes.torso.tunic",
+  "name": "Tunic",
+  "path": "clothes/torso/tunic",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "\"pirate shirt\" by MadMarcel",
+    "edited to all poses by makrohn",
+    "edited from tube-top/tanktop to sleeveless then to tunic by JaidynReiman",
+    "edits for v3 bases and further cleanup by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "David Conway Jr. (JaidynReiman)",
+    "Matthew Krohn (makrohn)",
+    "Marcel van de Steeg (MadMarcel)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+    "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more"
+  ]
+}

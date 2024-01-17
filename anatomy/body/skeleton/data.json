@@ -1,0 +1,49 @@
+{
+  "id": "anatomy.body.skeleton",
+  "name": "Skeleton",
+  "path": "anatomy/body/skeleton",
+  "actAs": "anatomy.body.male",
+  "layers": {
+    "fg": {
+      "z": 10
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Bones",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Johannes Sjölund (wulax)",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "https://opengameart.org/content/lpc-character-bases",
+    "https://opengameart.org/content/lpc-skeleton"
+  ]
+}

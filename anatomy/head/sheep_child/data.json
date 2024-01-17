@@ -1,0 +1,50 @@
+{
+  "id": "anatomy.head.sheep_child",
+  "name": "Sheep_child",
+  "path": "anatomy/head/sheep_child",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.child": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "original sheep by daneeklu",
+    "adapted to modular head by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Daniel Eddeland (daneeklu)"
+  ],
+  "licenses": [
+    "CC-BY 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-folk",
+    "https://opengameart.org/content/lpc-style-farm-animals"
+  ]
+}

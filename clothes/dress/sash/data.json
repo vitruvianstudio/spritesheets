@@ -1,0 +1,51 @@
+{
+  "id": "clothes.dress.sash",
+  "name": "Sash",
+  "path": "clothes/dress/sash",
+  "layers": {
+    "fg": {
+      "z": 30,
+      "conditions": {
+        "anatomy.body.female": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "white"
+  },
+  "notes": [
+    "adapted to v3 bases and recolored by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Thane Brimhall (pennomi)",
+    "laetissima",
+    "Matthew Krohn (makrohn)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-2-characters"
+  ]
+}

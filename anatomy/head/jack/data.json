@@ -1,0 +1,54 @@
+{
+  "id": "anatomy.head.jack",
+  "name": "Jack",
+  "path": "anatomy/head/jack",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": ".",
+        "anatomy.body.muscular": ".",
+        "anatomy.body.female": ".",
+        "anatomy.body.teen": ".",
+        "anatomy.body.pregnant": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "original pumpkin by Joshua Taylor",
+    "modified to head by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Joshua Taylor"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/fruit-and-veggie-inventory",
+    "https://opengameart.org/content/lpc-folk"
+  ]
+}

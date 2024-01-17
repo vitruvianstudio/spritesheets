@@ -1,0 +1,54 @@
+{
+  "id": "equipment.swords.longsword_alt",
+  "name": "Longsword Alt",
+  "path": "equipment/swords/longsword_alt",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 0,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "slash",
+    "walk"
+  ],
+  "sizes": {
+    "walk": "lg",
+    "slash": "lg"
+  },
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "Pierre Vigier",
+    "DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+  ],
+  "licenses": [
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-dcss-swords"
+  ]
+}

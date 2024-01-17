@@ -1,0 +1,66 @@
+{
+  "id": "clothes.cape.solid",
+  "name": "Solid",
+  "path": "clothes/cape/solid",
+  "layers": {
+    "fg": {
+      "z": 85,
+      "conditions": {
+        "anatomy.body.male": "male/fg",
+        "anatomy.body.muscular": "male/fg",
+        "anatomy.body.female": "female/fg",
+        "anatomy.body.teen": "female/fg",
+        "anatomy.body.pregnant": "female/fg"
+      }
+    },
+    "bg": {
+      "z": 5,
+      "conditions": {
+        "anatomy.body.male": "male/bg",
+        "anatomy.body.muscular": "male/bg",
+        "anatomy.body.female": "female/bg",
+        "anatomy.body.teen": "female/bg",
+        "anatomy.body.pregnant": "female/bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "red"
+  },
+  "notes": [
+    "adapted to v3 bases and recolored by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Nila122",
+    "David Conway Jr. (JaidynReiman)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+    "https://opengameart.org/content/lpc-roman-armor"
+  ]
+}

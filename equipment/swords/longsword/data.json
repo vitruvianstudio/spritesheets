@@ -1,0 +1,59 @@
+{
+  "id": "equipment.swords.longsword",
+  "name": "Longsword",
+  "path": "equipment/swords/longsword",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 0,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "slash",
+    "backslash",
+    "thrust",
+    "walk"
+  ],
+  "sizes": {
+    "slash": "xl",
+    "backslash": "xl",
+    "thrust": "xl"
+  },
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "Johannes Sjölund (wulax)",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "https://opengameart.org/content/lpc-extended-weapon-animations"
+  ]
+}

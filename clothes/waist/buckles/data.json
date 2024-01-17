@@ -1,0 +1,48 @@
+{
+  "id": "clothes.waist.buckles",
+  "name": "Buckles",
+  "path": "clothes/waist/buckles",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "slash",
+    "spell",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Luke Mehl"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/female-mage-clothing-set"
+  ]
+}

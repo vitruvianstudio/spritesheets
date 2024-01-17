@@ -1,0 +1,60 @@
+{
+  "id": "clothes.helmet_accessory.horns3",
+  "name": "Crest",
+  "path": "clothes/helmet_accessory/horns3",
+  "layers": {
+    "fg": {
+      "z": 139,
+      "conditions": {
+        "anatomy.head.human_male": "male/fg",
+        "anatomy.head.human_male_elderly": "male/fg",
+        "anatomy.head.human_male_gaunt": "male/fg",
+        "anatomy.head.human_female": "female/fg",
+        "anatomy.head.human_female_elderly": "female/fg"
+      }
+    },
+    "bg": {
+      "z": 125,
+      "conditions": {
+        "anatomy.head.human_male": "male/bg",
+        "anatomy.head.human_male_elderly": "male/bg",
+        "anatomy.head.human_male_gaunt": "male/bg",
+        "anatomy.head.human_female": "female/bg",
+        "anatomy.head.human_female_elderly": "female/bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-helmets"
+  ]
+}

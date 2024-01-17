@@ -1,0 +1,63 @@
+{
+  "id": "anatomy.tail.lizard",
+  "name": "Lizard Tail",
+  "path": "anatomy/tail/lizard",
+  "layers": {
+    "fg": {
+      "z": 85,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 5,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "skin",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "edited for v3 bases and recolored by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Nila122",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/drakes-and-lizardfolk"
+  ]
+}

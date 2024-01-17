@@ -1,0 +1,62 @@
+{
+  "id": "clothes.skirts.legion",
+  "name": "Legion",
+  "path": "clothes/skirts/legion",
+  "layers": {
+    "fg": {
+      "z": 15,
+      "conditions": {
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Decoration",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "blue",
+    "secondary": "gold"
+  },
+  "notes": [
+    "original by Nila122 to legion",
+    "adapted to v3 bases by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Nila122"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 2.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/lpc-roman-armor"
+  ]
+}

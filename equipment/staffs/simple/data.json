@@ -1,0 +1,56 @@
+{
+  "id": "equipment.staffs.simple_staff",
+  "name": "Simple",
+  "path": "equipment/staffs/simple",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Handle",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Stone",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Dr. Jamgo"
+  ],
+  "licenses": [
+    "CC0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-simple-staff"
+  ]
+}

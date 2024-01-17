@@ -1,0 +1,57 @@
+{
+  "id": "anatomy.head.minotaur_female",
+  "name": "Minotaur_female",
+  "path": "anatomy/head/minotaur_female",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": ".",
+        "anatomy.body.muscular": ".",
+        "anatomy.body.female": ".",
+        "anatomy.body.teen": ".",
+        "anatomy.body.pregnant": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "original cow by daneeklu",
+    "adapted to minotaur by Evert",
+    "female version modified by bluecarrot16 to remove horns",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Evert",
+    "Daniel Eddeland (daneeklu)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-faun-and-minotaur",
+    "https://opengameart.org/content/lpc-character-bases",
+    "https://opengameart.org/content/lpc-style-farm-animals"
+  ]
+}

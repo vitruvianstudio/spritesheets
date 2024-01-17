@@ -1,0 +1,65 @@
+{
+  "id": "anatomy.body.teen",
+  "name": "Teen",
+  "path": "anatomy/body/teen",
+  "layers": {
+    "fg": {
+      "z": 10
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "skin",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "ivory"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Evert",
+    "TheraHedwig",
+    "Benjamin K. Smith (BenCreating)",
+    "MuffinElZangano",
+    "Durrani",
+    "Pierre Vigier (pvigier)",
+    "Eliza Wyatt (ElizaWy)",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sjölund (wulax)",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-jump-expanded",
+    "https://opengameart.org/content/lpc-revised-character-basics",
+    "https://opengameart.org/content/lpc-teen-unisex-base-clothes",
+    "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    "https://opengameart.org/content/lpc-ladies",
+    "https://opengameart.org/content/lpc-be-seated",
+    "https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads",
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "https://opengameart.org/content/lpc-character-bases",
+    "https://gitlab.com/vagabondgame/lpc-characters",
+    "https://opengameart.org/content/lpc-male-jumping-animation-by-durrani",
+    "https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle"
+  ]
+}

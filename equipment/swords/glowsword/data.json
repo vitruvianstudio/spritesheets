@@ -1,0 +1,57 @@
+{
+  "id": "equipment.swords.glowsword",
+  "name": "Glowsword",
+  "path": "equipment/swords/glowsword",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 8,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "slash",
+    "walk"
+  ],
+  "sizes": {
+    "slash": "xl"
+  },
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "bluecarrot16",
+    "tskaufma",
+    "Johannes Sjölund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "https://opengameart.org/content/lpc-glow-sword",
+    "https://opengameart.org/content/lpc-extended-weapon-animations"
+  ]
+}

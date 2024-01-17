@@ -1,0 +1,69 @@
+{
+  "id": "clothes.torso.sleeveless",
+  "name": "Sleeveless",
+  "path": "clothes/torso/sleeveless",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "pregnant"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "\"pirate shirt\" by MadMarcel",
+    "edited to all poses by makrohn",
+    "edited from tube-top/tanktop to sleeveless by JaidynReiman",
+    "cleanup and re-drawing by ElizaWy",
+    "conversion to pregnant v3 base and further cleanup by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "ElizaWy",
+    "David Conway Jr. (JaidynReiman)",
+    "Matthew Krohn (makrohn)",
+    "Marcel van de Steeg (MadMarcel)",
+    "bluecarrot16",
+    "Nila122",
+    "Johannes Sj\u00f6lund (wulax)",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+    "https://opengameart.org/content/lpc-pirates",
+    "https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear",
+    "https://opengameart.org/content/more-lpc-clothes-and-hair",
+    "https://opengameart.org/content/lpc-7-womens-shirts",
+    "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "equipment.misc.boomerang",
+  "name": "Boomerang",
+  "path": "equipment/misc/boomerang",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    }
+  },
+  "poses": [
+    "backslash"
+  ],
+  "sizes": {
+	"backslash": "xl"
+  },
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "OGA-BY 3.0+",
+    "GPL 3.0",
+    "CC-BY 4.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-more-weapons"
+  ]
+}

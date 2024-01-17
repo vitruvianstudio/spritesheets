@@ -1,0 +1,53 @@
+{
+  "id": "clothes.hat.bandana_simple",
+  "name": "Bandana Simple",
+  "path": "clothes/hat/bandana_simple",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "white"
+  },
+  "notes": [
+    "bigbeargames, but is original?",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Michael Whitlock (bigbeargames)",
+    "Matthew Krohn (makrohn)",
+    "Marcel van de Steeg (MadMarcel)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+    "https://github.com/makrohn/Universal-LPC-spritesheet/commit/f50007cb47c235d8896cafae7a613f0b6a9a09a8?short_path=02b86d4#diff-02b86d45789a3e3e8e79519c7d17d15c9e6ecc9b4ddecb1bcd8dfbbaef430b75"
+  ]
+}

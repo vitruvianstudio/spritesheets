@@ -1,0 +1,42 @@
+{
+  "id": "anatomy.hair.curly",
+  "name": "Curly",
+  "path": "anatomy/hair/curly",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_child": "child"
+      }
+    }
+  },
+  "poses": [
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Nila122"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-clothes-for-children"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "equipment.spears.dragon",
+  "name": "Dragon",
+  "path": "equipment/spears/dragon",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "thrust"
+  ],
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "sizes": {
+	"thrust": "xl"
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "Daniel Eddeland (daneeklu)",
+    "gr3yh47",
+    "Johannes Sjölund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident"
+  ]
+}

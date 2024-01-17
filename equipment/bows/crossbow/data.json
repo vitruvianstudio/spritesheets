@@ -1,0 +1,39 @@
+{
+  "id": "equipment.bows.crossbow",
+  "name": "Crossbow",
+  "path": "equipment/bows/crossbow",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": ".",
+        "anatomy.body.muscular": ".",
+        "anatomy.body.female": ".",
+        "anatomy.body.teen": ".",
+        "anatomy.body.pregnant": "."
+      }
+    }
+  },
+  "poses": [
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "drjamgo@hotmail.com"
+  ],
+  "licenses": [
+    "CC0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-crossbow-final"
+  ]
+}

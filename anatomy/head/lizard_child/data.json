@@ -1,0 +1,54 @@
+{
+  "id": "anatomy.head.lizard_child",
+  "name": "Lizard_child",
+  "path": "anatomy/head/lizard_child",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.child": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.body"
+  },
+  "notes": [
+    "original lizard/drake by Nila122",
+    "reworked by BenCreating",
+    "modular head and further revisions by bluecarrot16",
+    "child version by bluecarrot16. Nila122 gave blanket permission to MedicineStorm to use Nila122's LPC assets under OGA-BY 3.0 (where original or derived only from other works under OGA-BY).",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Benjamin K. Smith (BenCreating)",
+    "Nila122"
+  ],
+  "licenses": [
+    "OGA-BY 3.0",
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-character-bases",
+    "https://opengameart.org/content/drakes-and-lizardfolk"
+  ]
+}

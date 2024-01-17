@@ -1,0 +1,61 @@
+{
+  "id": "clothes.helmet_accessory.plumage_centurion",
+  "name": "Plumage_centurion",
+  "path": "clothes/helmet_accessory/plumage_centurion",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Primary",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Secondary",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "red",
+    "secondary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "DCSS authors"
+  ],
+  "licenses": [
+    "CC0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-helmets-mega-pack",
+    "http://opengameart.org/content/dungeon-crawl-32x32-tiles",
+    "https://opengameart.org/content/cc0-headgear-icons"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "anatomy.ears.elven",
+  "name": "Elven",
+  "path": "anatomy/ears/elven",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.head.human_male": ".",
+        "anatomy.head.human_male_elderly": ".",
+        "anatomy.head.human_male_gaunt": ".",
+        "anatomy.head.human_female": ".",
+        "anatomy.head.human_female_elderly": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "skin",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "anatomy.head"
+  },
+  "notes": [
+    "adapted to v3 base by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Thane Brimhall (pennomi)",
+    "Matthew Krohn (makrohn)",
+    "David Conway Jr. (JaidynReiman)"
+  ],
+  "licenses": [
+    "GPL 3.0",
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/lpc-base-character-expressions"
+  ]
+}

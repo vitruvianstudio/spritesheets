@@ -1,0 +1,61 @@
+{
+  "id": "equipment.staff_accessory.crystal",
+  "name": "Crystal",
+  "path": "equipment/staff_accessory/crystal",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 9,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "thrust",
+    "walk"
+  ],
+  "sizes": {
+    "thrust": "xl"
+  },
+  "materials": {
+    "primary": {
+      "name": "Crystal",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "cyan"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "OGA-BY 3.0+",
+    "GPL 3.0",
+    "CC-BY 4.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-more-weapons"
+  ]
+}

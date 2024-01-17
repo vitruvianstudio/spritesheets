@@ -1,0 +1,57 @@
+{
+  "id": "equipment.spears.trident",
+  "name": "Trident",
+  "path": "equipment/spears/trident",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "thrust"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Handle",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Prongs",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "steel"
+  },
+  "sizes": {
+	"thrust": "xl"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Daniel Eddeland (daneeklu)",
+    "gr3yh47",
+    "Johannes Sjölund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident"
+  ]
+}

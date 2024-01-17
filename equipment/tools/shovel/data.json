@@ -1,0 +1,67 @@
+{
+  "id": "equipment.tools.shovel",
+  "name": "Shovel",
+  "path": "equipment/tools/shovel",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 8,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Handle",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "steel"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Pierre Vigier",
+    "Tuomo Untinen",
+    "Johannes Sjölund (wulax)",
+    "Inboxninja"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-hand-tools"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "equipment.bows.recurve",
+  "name": "Recurve",
+  "path": "equipment/bows/recurve",
+  "layers": {
+    "fg": {
+      "z": 150,
+      "conditions": {
+        "anatomy.body.male": "fg",
+        "anatomy.body.muscular": "fg",
+        "anatomy.body.female": "fg",
+        "anatomy.body.teen": "fg",
+        "anatomy.body.pregnant": "fg"
+      }
+    },
+    "bg": {
+      "z": 0,
+      "conditions": {
+        "anatomy.body.male": "bg",
+        "anatomy.body.muscular": "bg",
+        "anatomy.body.female": "bg",
+        "anatomy.body.teen": "bg",
+        "anatomy.body.pregnant": "bg"
+      }
+    }
+  },
+  "poses": [
+    "shoot",
+    "walk"
+  ],
+  "sizes": {
+	"walk": "lg"
+  },
+  "materials": {
+    "primary": {
+      "name": "Bow",
+      "palettes": [
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    },
+    "tertiary": {
+      "name": "String",
+      "palettes": [
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown",
+    "secondary": "steel",
+    "tertiary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Daniel Eddeland (daneeklu)",
+    "gr3yh47",
+    "Johannes Sjölund (wulax)",
+    "pvigier"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+    "https://opengameart.org/content/lpc-walk-animations-for-bows"
+  ]
+}

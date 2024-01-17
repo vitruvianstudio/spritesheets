@@ -1,0 +1,56 @@
+{
+  "id": "clothes.torso.sleeveless_laced",
+  "name": "Sleeveless_laced",
+  "path": "clothes/torso/sleeveless_laced",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Matthew Krohn (makrohn)",
+    "David Conway Jr. (JaidynReiman)",
+    "Marcel van de Steeg (MadMarcel)",
+    "Nila122",
+    "Johannes Sj\u00f6lund (wulax)",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+    "https://opengameart.org/content/lpc-pirates",
+    "https://opengameart.org/content/more-lpc-clothes-and-hair",
+    "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more"
+  ]
+}

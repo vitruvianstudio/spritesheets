@@ -1,0 +1,44 @@
+{
+  "id": "equipment.spears.longspear",
+  "name": "Longspear",
+  "path": "equipment/spears/longspear",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "thrust"
+  ],
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "sizes": {
+	"thrust": "xl"
+  },
+  "notes": [
+    "long spear from expansion_pack-0.04",
+    "slightly different from spear (25.png)"
+  ],
+  "authors": [
+    "Johannes Sjölund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+  ]
+}
+

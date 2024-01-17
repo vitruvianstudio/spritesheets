@@ -1,0 +1,51 @@
+{
+  "id": "anatomy.hair.spiked",
+  "name": "Spiked",
+  "path": "anatomy/hair/spiked",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "kcilds/Rocetti/Eredah"
+  ],
+  "licenses": [
+    "CC-BY 4.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+    "https://opengameart.org/content/lpc-hair"
+  ]
+}

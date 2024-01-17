@@ -1,0 +1,53 @@
+{
+  "id": "clothes.legs.leggings",
+  "name": "Leggings",
+  "path": "clothes/legs/leggings",
+  "layers": {
+    "fg": {
+      "z": 15,
+      "conditions": {
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "blue"
+  },
+  "notes": [
+    "adapted from sara's leggings to v3 bases by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Mandi Paugh",
+    "Stephen Challener (Redshrike)",
+    "William.Thompsonj"
+  ],
+  "licenses": [
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "http://opengameart.org/content/sara-wizard",
+    "https://opengameart.org/content/lpc-sara"
+  ]
+}

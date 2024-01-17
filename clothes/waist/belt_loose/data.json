@@ -1,0 +1,62 @@
+{
+  "id": "clothes.waist.belt_loose",
+  "name": "Belt_loose",
+  "path": "clothes/waist/belt_loose",
+  "layers": {
+    "fg": {
+      "z": 20,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Belt",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Buckle",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black",
+    "secondary": "silver"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Johannes Sj\u00f6lund (wulax)",
+    "Matthew Krohn (makrohn)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-pirates",
+    "https://opengameart.org/content/lpc-combat-armor-for-women"
+  ]
+}

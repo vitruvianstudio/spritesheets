@@ -1,0 +1,55 @@
+{
+  "id": "anatomy.hair.long_messy",
+  "name": "Long_messy",
+  "path": "anatomy/hair/long_messy",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "(puck)",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Mandi Paugh",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "GPL 2.0",
+    "GPL 3.0",
+    "CC-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/puck-overland",
+    "https://opengameart.org/content/lpc-hair"
+  ]
+}

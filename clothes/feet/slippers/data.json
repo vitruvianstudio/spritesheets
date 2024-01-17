@@ -1,0 +1,57 @@
+{
+  "id": "clothes.feet.slippers",
+  "name": "Slippers",
+  "path": "clothes/feet/slippers",
+  "layers": {
+    "fg": {
+      "z": 25,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "original by Luke Mehl",
+    "Joe White did thrust/shoot animations",
+    "edited for v3 bases and male sprites by bluecarrot16",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Joe White",
+    "Luke Mehl"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/female-mage-clothing-set",
+    "http://opengameart.org/content/lpc-clothing-updates"
+  ]
+}

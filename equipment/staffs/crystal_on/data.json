@@ -1,0 +1,43 @@
+{
+  "id": "equipment.staffs.crystal_on",
+  "name": "Crystal On",
+  "path": "equipment/staffs/crystal_on",
+  "layers": {
+    "fg": {
+      "z": 140,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.teen": "female",
+        "anatomy.body.pregnant": "female"
+      }
+    }
+  },
+  "poses": [
+    "thrust"
+  ],
+  "materials": {
+
+  },
+  "colors": {
+
+  },
+  "sizes": {
+	"thrust": "xl"
+  },
+  "notes": [
+
+  ],
+  "authors": [
+    "LordNeo",
+    "Michael Whitlock (bigbeargames)"
+  ],
+  "licenses": [
+    "CC0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/staff-64-x64",
+    "https://opengameart.org/content/lpc-magic-staff"
+  ]
+}

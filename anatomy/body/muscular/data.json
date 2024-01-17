@@ -1,0 +1,62 @@
+{
+  "id": "anatomy.body.muscular",
+  "name": "Muskular",
+  "path": "anatomy/body/muscular",
+  "layers": {
+    "fg": {
+      "z": 10
+    }
+  },
+  "poses": [
+    "hurt",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Skin",
+      "palettes": [
+        "skin",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "ivory"
+  },
+  "notes": [
+    "see details at https://opengameart.org/content/lpc-character-bases",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Evert",
+    "TheraHedwig",
+    "MuffinElZangano",
+    "Durrani",
+    "Sander Frenken (castelonia)",
+    "Benjamin K. Smith (BenCreating)",
+    "Eliza Wyatt (ElizaWy)",
+    "dalonedrau",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-jump-expanded",
+    "https://opengameart.org/content/lpc-muscular-hurt-animation",
+    "https://opengameart.org/content/lpc-revised-character-basics",
+    "https://opengameart.org/content/lpc-barbarian-sprite-base",
+    "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    "https://opengameart.org/content/lpc-be-seated",
+    "https://opengameart.org/content/lpc-muscular-swing-animation",
+    "https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads",
+    "https://opengameart.org/content/lpc-character-bases",
+    "https://opengameart.org/content/lpc-male-jumping-animation-by-durrani",
+    "https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle"
+  ]
+}

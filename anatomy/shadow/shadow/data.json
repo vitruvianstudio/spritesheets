@@ -1,0 +1,62 @@
+{
+  "id": "anatomy.shadow.shadow",
+  "name": "Shadow",
+  "path": "anatomy/shadow/shadow",
+  "layers": {
+    "fg": {
+      "z": 0,
+      "conditions": {
+        "anatomy.body.child": "child",
+        "anatomy.body.male": "adult",
+        "anatomy.body.muscular": "adult",
+        "anatomy.body.female": "adult",
+        "anatomy.body.teen": "adult",
+        "anatomy.body.pregnant": "adult"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {},
+  "colors": {},
+  "notes": [
+    "original male pants by wulax",
+    "edited for female by Joe White",
+    "recolors by JaidynReiman",
+    "walkcycle adapted to pregnant base by ElizaWy",
+    "remaining animations, recolors and edits to v3 base by bluecarrot16",
+    "teem body by Redshrike",
+    "teen legs by ElizaWy derived from base",
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "ElizaWy",
+    "David Conway Jr. (JaidynReiman)",
+    "Joe White",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sj\u00f6lund (wulax)",
+    "Nila122",
+    "Stephen Challener (Redshrike)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "http://opengameart.org/content/lpc-clothing-updates",
+    "https://opengameart.org/content/more-lpc-clothes-and-hair",
+    "https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear",
+    "https://opengameart.org/content/lpc-teen-unisex-base-clothes",
+    "https://opengameart.org/content/lpc-clothes-for-children"
+  ]
+}

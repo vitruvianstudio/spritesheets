@@ -1,0 +1,49 @@
+{
+  "id": "horse.face.blaze",
+  "name": "Blaze",
+  "path": "horse/face/blaze",
+  "layers": {
+    "fg": {
+      "z": 125,
+      "conditions": {
+        "horse.body.default": "."
+      }
+    }
+  },
+  "poses": [
+    "gallop",
+    "idle",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Face",
+      "palettes": ["any"]
+    }
+  },
+  "colors": {
+    "primary": "white"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors",
+    "[LPC] Horse by bluecarrot16",
+    "modified to improve animations by Benjamin K. Smith",
+    "Accessories, Unicorn Horn, and Face and Leg Markings by Benjamin K. Smith"
+  ],
+  "authors": [
+    "napsio",
+    "Benjamin K. Smith (BenCreating)",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "CC-BY 3.0",
+    "CC-BY-SA 3.0",
+    "GPL 3.0",
+    "GPL 2.0",
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-horses",
+    "https://opengameart.org/content/lpc-horse-extended"
+  ]
+}

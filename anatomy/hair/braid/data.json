@@ -1,0 +1,55 @@
+{
+  "id": "anatomy.hair.braid",
+  "name": "Braid",
+  "path": "anatomy/hair/braid",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Nila122",
+    "ElizaWy"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0",
+    "GPL 2.0",
+    "OGA-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/3-hairs-for-lpc",
+    "https://opengameart.org/content/lpc-hair"
+  ]
+}

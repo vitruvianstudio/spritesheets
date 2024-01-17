@@ -1,0 +1,56 @@
+{
+  "id": "clothes.torso2.iverness",
+  "name": "Iverness",
+  "path": "clothes/torso2/iverness",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.muscular": "male"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Primary",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Button",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "gray",
+    "secondary": "gold"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-gentleman"
+  ]
+}

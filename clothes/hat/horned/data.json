@@ -1,0 +1,58 @@
+{
+  "id": "clothes.hat.horned",
+  "name": "Horned",
+  "path": "clothes/hat/horned",
+  "layers": {
+    "fg": {
+      "z": 10,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Metal",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "steel"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "bluecarrot16",
+    "Shaun Williams",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sj\u00f6lund (wulax)",
+    "Sander Frenken (castelonia)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-full-plate-golden-armor-0",
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+    "https://opengameart.org/content/lpc-helmets-mega-pack",
+    "https://opengameart.org/content/lpc-full-plate-golden-armor"
+  ]
+}

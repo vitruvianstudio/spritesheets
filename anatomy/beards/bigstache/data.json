@@ -1,0 +1,50 @@
+{
+  "id": "anatomy.beards.bigstache",
+  "name": "Bigstache",
+  "path": "anatomy/beards/bigstache",
+  "layers": {
+    "fg": {
+      "z": 110,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "brown"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "David Conway Jr. (JaidynReiman)",
+    "Thane Brimhall (pennomi)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-base-character-expressions"
+  ]
+}

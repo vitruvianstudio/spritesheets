@@ -1,0 +1,51 @@
+{
+  "id": "clothes.wrists.bracers",
+  "name": "Bracers",
+  "path": "clothes/wrists/bracers",
+  "layers": {
+    "fg": {
+      "z": 70,
+      "conditions": {
+        "anatomy.body.male": "male",
+        "anatomy.body.female": "female",
+        "anatomy.body.pregnant": "female",
+        "anatomy.body.muscular": "male"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Material",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "steel"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Matthew Krohn (makrohn)",
+    "Johannes Sj\u00f6lund (wulax)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+  ]
+}

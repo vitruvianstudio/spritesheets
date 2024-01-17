@@ -1,0 +1,42 @@
+{
+  "id": "injuries.eye.wound",
+  "name": "Wound",
+  "path": "injuries/eye/wound",
+  "layers": {
+    "fg": {
+      "z": 15,
+      "conditions": {
+        "anatomy.head.human_male": ".",
+        "anatomy.head.human_male_elderly": ".",
+        "anatomy.head.human_male_gaunt": ".",
+        "anatomy.head.human_female": ".",
+        "anatomy.head.human_female_elderly": "."
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {},
+  "colors": {},
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Benjamin K. Smith (BenCreating)",
+    "Sander Frenken (castelonia)"
+  ],
+  "licenses": [
+    "CC-BY-SA 3.0",
+    "GPL 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-zombie"
+  ]
+}

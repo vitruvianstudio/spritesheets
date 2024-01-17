@@ -1,0 +1,55 @@
+{
+  "id": "anatomy.hair.sara",
+  "name": "Sara",
+  "path": "anatomy/hair/sara",
+  "layers": {
+    "fg": {
+      "z": 120,
+      "conditions": {
+        "anatomy.head.human_male": "male",
+        "anatomy.head.human_male_elderly": "male",
+        "anatomy.head.human_male_gaunt": "male",
+        "anatomy.head.human_female": "female",
+        "anatomy.head.human_female_elderly": "female"
+      }
+    }
+  },
+  "poses": [
+    "hurt",
+    "shoot",
+    "slash",
+    "spell",
+    "thrust",
+    "walk"
+  ],
+  "materials": {
+    "primary": {
+      "name": "Hair",
+      "palettes": [
+        "hair",
+        "any"
+      ]
+    }
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "notes": [
+    "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+  ],
+  "authors": [
+    "napsio",
+    "Stephen Challener (Redshrike)",
+    "William.Thompsonj",
+    "Mandi Paugh",
+    "bluecarrot16"
+  ],
+  "licenses": [
+    "OGA-BY 3.0",
+    "CC-BY 3.0"
+  ],
+  "urls": [
+    "https://opengameart.org/content/lpc-sara",
+    "https://opengameart.org/content/lpc-hair"
+  ]
+}
