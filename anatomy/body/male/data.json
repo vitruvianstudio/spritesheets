@@ -13,7 +13,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -40,7 +41,7 @@
     "TheraHedwig",
     "MuffinElZangano",
     "Durrani",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Stephen Challener (Redshrike)"
   ],
   "licenses": [

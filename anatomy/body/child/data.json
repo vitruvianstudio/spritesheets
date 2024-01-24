@@ -10,7 +10,8 @@
   "poses": [
     "hurt",
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {

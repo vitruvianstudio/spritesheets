@@ -27,24 +27,19 @@
   "poses": [
     "hurt",
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
     "slash": "xl"
   },
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "bluecarrot16",
     "tskaufma",
-    "Johannes Sjölund (wulax)"
+    "Johannes Sj\u00f6lund (wulax)"
   ],
   "licenses": [
     "CC-BY-SA 3.0"

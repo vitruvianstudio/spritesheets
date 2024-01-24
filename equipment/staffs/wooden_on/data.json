@@ -17,18 +17,12 @@
   "poses": [
     "thrust"
   ],
-  "materials": {
-
-  },
-  "colors": {
-
-  },
+  "materials": {},
+  "colors": {},
   "sizes": {
-	"thrust": "xl"
+    "thrust": "xl"
   },
-  "notes": [
-
-  ],
+  "notes": [],
   "authors": [
     "LordNeo",
     "Michael Whitlock (bigbeargames)"

@@ -28,7 +28,7 @@
     "whip"
   ],
   "sizes": {
-	"whip": "lg"
+    "whip": "xl"
   },
   "materials": {
     "primary": {

@@ -27,22 +27,17 @@
   "poses": [
     "hurt",
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
     "slash": "xl"
   },
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "bluecarrot16"
   ],
   "licenses": [

@@ -28,20 +28,15 @@
     "hurt",
     "slash",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "bluecarrot16",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Matthew Krohn (makrohn)"
   ],
   "licenses": [

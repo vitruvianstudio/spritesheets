@@ -16,7 +16,8 @@
   },
   "poses": [
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -43,7 +44,7 @@
   "authors": [
     "napsio",
     "Pierre Vigier (pvigier)",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Inboxninja"
   ],
   "licenses": [

@@ -18,17 +18,11 @@
     "backslash"
   ],
   "sizes": {
-	"backslash": "xl"
+    "backslash": "xl"
   },
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "bluecarrot16"
   ],

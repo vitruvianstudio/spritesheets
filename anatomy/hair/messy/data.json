@@ -11,7 +11,8 @@
     }
   },
   "poses": [
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {

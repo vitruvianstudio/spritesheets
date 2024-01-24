@@ -20,7 +20,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -39,7 +40,7 @@
   "authors": [
     "napsio",
     "bluecarrot16",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Stephen Challener (Redshrike)"
   ],
   "licenses": [

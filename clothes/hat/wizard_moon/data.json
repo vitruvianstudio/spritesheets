@@ -20,7 +20,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -29,10 +30,18 @@
         "clothes",
         "any"
       ]
+    },
+    "secondary": {
+      "name": "Accent",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
     }
   },
   "colors": {
-    "primary": "blue"
+    "primary": "blue",
+    "secondary": "yellow"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

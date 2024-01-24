@@ -26,7 +26,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {

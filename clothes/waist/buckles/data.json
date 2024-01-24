@@ -16,7 +16,8 @@
     "hurt",
     "slash",
     "spell",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {

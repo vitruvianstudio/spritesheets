@@ -28,11 +28,12 @@
     "hurt",
     "slash",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
-	"slash": "xl",
-	"thrust": "xl"
+    "slash": "xl",
+    "thrust": "xl"
   },
   "materials": {
     "primary": {

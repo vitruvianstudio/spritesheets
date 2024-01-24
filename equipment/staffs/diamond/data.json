@@ -27,7 +27,8 @@
   "poses": [
     "hurt",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
     "thrust": "xl"

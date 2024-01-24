@@ -37,7 +37,7 @@
     "secondary": "steel"
   },
   "sizes": {
-	"thrust": "xl"
+    "thrust": "xl"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
@@ -46,7 +46,7 @@
     "napsio",
     "Daniel Eddeland (daneeklu)",
     "gr3yh47",
-    "Johannes Sjölund (wulax)"
+    "Johannes Sj\u00f6lund (wulax)"
   ],
   "licenses": [
     "CC-BY-SA 3.0"

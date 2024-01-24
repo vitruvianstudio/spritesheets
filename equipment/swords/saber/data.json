@@ -27,23 +27,18 @@
   "poses": [
     "hurt",
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
     "slash": "xl"
   },
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "Daniel Eddeland (daneeklu)",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "gr3yh47",
     "bluecarrot16"
   ],

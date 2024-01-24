@@ -26,10 +26,11 @@
   },
   "poses": [
     "shoot",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
-	"walk": "lg"
+    "walk": "lg"
   },
   "materials": {
     "primary": {
@@ -64,7 +65,7 @@
     "napsio",
     "Daniel Eddeland (daneeklu)",
     "gr3yh47",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "pvigier"
   ],
   "licenses": [

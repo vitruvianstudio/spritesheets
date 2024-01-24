@@ -13,7 +13,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -41,7 +42,7 @@
     "Pierre Vigier (pvigier)",
     "Eliza Wyatt (ElizaWy)",
     "Matthew Krohn (makrohn)",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Stephen Challener (Redshrike)"
   ],
   "licenses": [

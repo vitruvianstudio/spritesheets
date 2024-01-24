@@ -14,7 +14,8 @@
     "slash",
     "spell",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -33,7 +34,7 @@
   "authors": [
     "napsio",
     "Stephen Challener (Redshrike)",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "Sander Frenken (castelonia)",
     "Benjamin K. Smith (BenCreating)",
     "bluecarrot16"

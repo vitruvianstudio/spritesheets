@@ -16,17 +16,12 @@
   },
   "poses": [
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "drjamgo@hotmail.com"
   ],

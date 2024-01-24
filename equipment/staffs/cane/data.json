@@ -16,7 +16,8 @@
   },
   "poses": [
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "materials": {
     "primary": {
@@ -30,7 +31,7 @@
     "primary": "brown"
   },
   "sizes": {
-	"thrust": "xl"
+    "thrust": "xl"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

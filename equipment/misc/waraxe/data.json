@@ -27,10 +27,11 @@
   "poses": [
     "hurt",
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
-	"slash": "xl"
+    "slash": "xl"
   },
   "materials": {
     "primary": {

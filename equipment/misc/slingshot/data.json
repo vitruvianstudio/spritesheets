@@ -26,10 +26,11 @@
   },
   "poses": [
     "shoot",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
-	"walk": "lg"
+    "walk": "lg"
   },
   "materials": {
     "primary": {
@@ -57,9 +58,7 @@
     "secondary": "steel",
     "tertiary": "white"
   },
-  "notes": [
-
-  ],
+  "notes": [],
   "authors": [
     "bluecarrot16"
   ],

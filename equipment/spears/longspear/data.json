@@ -17,21 +17,17 @@
   "poses": [
     "thrust"
   ],
-  "materials": {
-
-  },
-  "colors": {
-
-  },
+  "materials": {},
+  "colors": {},
   "sizes": {
-	"thrust": "xl"
+    "thrust": "xl"
   },
   "notes": [
     "long spear from expansion_pack-0.04",
     "slightly different from spear (25.png)"
   ],
   "authors": [
-    "Johannes Sjölund (wulax)"
+    "Johannes Sj\u00f6lund (wulax)"
   ],
   "licenses": [
     "CC-BY-SA 3.0",
@@ -41,4 +37,3 @@
     "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
   ]
 }
-

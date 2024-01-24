@@ -28,10 +28,11 @@
     "hurt",
     "slash",
     "thrust",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
-	"slash": "xl"
+    "slash": "xl"
   },
   "materials": {
     "primary": {
@@ -50,7 +51,7 @@
   ],
   "authors": [
     "napsio",
-    "Johannes Sjölund (wulax)",
+    "Johannes Sj\u00f6lund (wulax)",
     "bluecarrot16"
   ],
   "licenses": [

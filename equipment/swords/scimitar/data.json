@@ -26,21 +26,16 @@
   },
   "poses": [
     "slash",
-    "walk"
+    "walk",
+    "idle"
   ],
   "sizes": {
     "walk": "lg",
     "slash": "lg"
   },
-  "materials": {
-
-  },
-  "colors": {
-
-  },
-  "notes": [
-
-  ],
+  "materials": {},
+  "colors": {},
+  "notes": [],
   "authors": [
     "Pierre Vigier",
     "DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
