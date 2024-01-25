@@ -4,7 +4,7 @@
   "path": "clothes/hat/tiara",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 120,
       "conditions": {
         "anatomy.head.human_female": "female",
         "anatomy.head.human_female_elderly": "female"

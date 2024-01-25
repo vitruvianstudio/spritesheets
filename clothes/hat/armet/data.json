@@ -5,7 +5,7 @@
   "group": "helmet",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 120,
       "conditions": {
         "anatomy.head.human_male": "male",
         "anatomy.head.human_male_elderly": "male",

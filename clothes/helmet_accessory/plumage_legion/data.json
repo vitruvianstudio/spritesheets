@@ -4,7 +4,7 @@
   "path": "clothes/helmet_accessory/plumage_legion",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 130,
       "conditions": {
         "anatomy.head.human_male": "male",
         "anatomy.head.human_male_elderly": "male",
