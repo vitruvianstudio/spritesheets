@@ -2,6 +2,7 @@
   "id": "clothes.hat.barbarian_nasal",
   "name": "Barbarian_nasal",
   "path": "clothes/hat/barbarian_nasal",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

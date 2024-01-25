@@ -2,6 +2,7 @@
   "id": "clothes.hat.tricorne_stitched",
   "name": "Tricorne_stitched",
   "path": "clothes/hat/tricorne_stitched",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

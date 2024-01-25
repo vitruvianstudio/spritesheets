@@ -2,6 +2,7 @@
   "id": "clothes.hat.close",
   "name": "Close",
   "path": "clothes/hat/close",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

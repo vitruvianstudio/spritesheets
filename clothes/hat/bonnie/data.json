@@ -2,6 +2,7 @@
   "id": "clothes.hat.bonnie",
   "name": "Bonnie",
   "path": "clothes/hat/bonnie",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

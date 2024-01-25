@@ -2,6 +2,7 @@
   "id": "clothes.hat.sugarloaf_simple",
   "name": "Sugarloaf_simple",
   "path": "clothes/hat/sugarloaf_simple",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

@@ -1,7 +1,7 @@
 {
-  "id": "equipment.shield.kite",
+  "id": "equipment.shields.kite",
   "name": "Kite",
-  "path": "equipment/shield/kite",
+  "path": "equipment/shields/kite",
   "layers": {
     "fg": {
       "z": 110,

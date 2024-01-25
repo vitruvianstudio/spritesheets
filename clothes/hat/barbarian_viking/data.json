@@ -2,6 +2,7 @@
   "id": "clothes.hat.barbarian_viking",
   "name": "Barbarian_viking",
   "path": "clothes/hat/barbarian_viking",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

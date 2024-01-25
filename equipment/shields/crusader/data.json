@@ -1,7 +1,7 @@
 {
-  "id": "equipment.shield.crusader",
+  "id": "equipment.shields.crusader",
   "name": "Crusader",
-  "path": "equipment/shield/crusader",
+  "path": "equipment/shields/crusader",
   "layers": {
     "fg": {
       "z": 110,

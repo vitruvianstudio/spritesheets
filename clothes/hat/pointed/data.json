@@ -2,6 +2,7 @@
   "id": "clothes.hat.pointed",
   "name": "Pointed",
   "path": "clothes/hat/pointed",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

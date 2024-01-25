@@ -2,6 +2,7 @@
   "id": "clothes.hat.armet_simple",
   "name": "Armet_simple",
   "path": "clothes/hat/armet_simple",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

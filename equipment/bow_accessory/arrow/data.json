@@ -1,7 +1,7 @@
 {
-  "id": "weapons.bow_accessory.arrow",
+  "id": "equipment.bow_accessory.arrow",
   "name": "Arrow",
-  "path": "weapons/bow_accessory/arrow",
+  "path": "equipment/bow_accessory/arrow",
   "layers": {
     "fg": {
       "z": 150,

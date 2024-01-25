@@ -1,10 +1,10 @@
 {
-  "id": "clothes.hat.bandana",
-  "name": "Bandana",
-  "path": "clothes/hat/bandana",
+  "id": "clothes.head_coverings.bandana_skull",
+  "name": "Bandana_skull",
+  "path": "clothes/head_coverings/bandana_skull",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 110,
       "conditions": {
         "anatomy.head.human_male": "male",
         "anatomy.head.human_male_elderly": "male",
@@ -30,10 +30,18 @@
         "clothes",
         "any"
       ]
+    },
+    "secondary": {
+      "name": "Skull",
+      "palettes": [
+        "clothes",
+        "any"
+      ]
     }
   },
   "colors": {
-    "primary": "red"
+    "primary": "red",
+    "secondary": "white"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
@@ -47,7 +55,6 @@
     "CC-BY-SA 3.0"
   ],
   "urls": [
-    "https://opengameart.org/content/lpc-pirates",
-    "https://opengameart.org/content/the-revolution-hair"
+    "https://opengameart.org/content/lpc-pirates"
   ]
 }

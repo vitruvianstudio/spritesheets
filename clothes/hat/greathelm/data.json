@@ -2,6 +2,7 @@
   "id": "clothes.hat.greathelm",
   "name": "Greathelm",
   "path": "clothes/hat/greathelm",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

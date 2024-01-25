@@ -2,6 +2,7 @@
   "id": "clothes.hat.legion",
   "name": "Legion",
   "path": "clothes/hat/legion",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

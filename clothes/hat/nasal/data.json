@@ -2,6 +2,7 @@
   "id": "clothes.hat.nasal",
   "name": "Nasal",
   "path": "clothes/hat/nasal",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

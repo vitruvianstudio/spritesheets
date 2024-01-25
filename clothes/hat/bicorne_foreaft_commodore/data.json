@@ -2,6 +2,7 @@
   "id": "clothes.hat.bicorne_foreaft_commodore",
   "name": "Bicorne_foreaft_commodore",
   "path": "clothes/hat/bicorne_foreaft_commodore",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

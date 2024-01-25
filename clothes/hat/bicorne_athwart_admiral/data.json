@@ -2,6 +2,7 @@
   "id": "clothes.hat.bicorne_athwart_admiral",
   "name": "Bicorne_athwart_admiral",
   "path": "clothes/hat/bicorne_athwart_admiral",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

@@ -2,6 +2,7 @@
   "id": "clothes.hat.cavalier",
   "name": "Cavalier",
   "path": "clothes/hat/cavalier",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

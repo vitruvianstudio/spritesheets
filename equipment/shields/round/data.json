@@ -1,7 +1,7 @@
 {
-  "id": "equipment.shield.round",
+  "id": "equipment.shields.round",
   "name": "Round",
-  "path": "equipment/shield/round",
+  "path": "equipment/shields/round",
   "layers": {
     "fg": {
       "z": 110,

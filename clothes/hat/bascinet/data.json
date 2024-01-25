@@ -2,6 +2,7 @@
   "id": "clothes.hat.bascinet",
   "name": "Bascinet",
   "path": "clothes/hat/bascinet",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

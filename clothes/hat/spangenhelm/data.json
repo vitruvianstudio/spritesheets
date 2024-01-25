@@ -2,6 +2,7 @@
   "id": "clothes.hat.spangenhelm",
   "name": "Spangenhelm",
   "path": "clothes/hat/spangenhelm",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

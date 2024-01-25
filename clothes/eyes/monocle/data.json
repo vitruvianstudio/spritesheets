@@ -25,7 +25,14 @@
   ],
   "materials": {
     "primary": {
-      "name": "Metal",
+      "name": "Frame",
+      "palettes": [
+        "metal",
+        "any"
+      ]
+    },
+    "secondary": {
+      "name": "Frame",
       "palettes": [
         "metal",
         "any"
@@ -33,7 +40,8 @@
     }
   },
   "colors": {
-    "primary": "silver"
+    "primary": "silver",
+    "secondary": "silver"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

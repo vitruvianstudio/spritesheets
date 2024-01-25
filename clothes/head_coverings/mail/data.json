@@ -1,7 +1,7 @@
 {
-  "id": "clothes.hat.mail",
+  "id": "clothes.head_coverings.mail",
   "name": "Mail",
-  "path": "clothes/hat/mail",
+  "path": "clothes/head_coverings/mail",
   "layers": {
     "fg": {
       "z": 10,

@@ -2,6 +2,7 @@
   "id": "clothes.hat.bascinet_pigface_raised",
   "name": "Bascinet_pigface_raised",
   "path": "clothes/hat/bascinet_pigface_raised",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

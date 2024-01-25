@@ -1,10 +1,10 @@
 {
-  "id": "clothes.hat.bandana_skull",
-  "name": "Bandana_skull",
-  "path": "clothes/hat/bandana_skull",
+  "id": "clothes.head_coverings.bandana_simple",
+  "name": "Bandana Simple",
+  "path": "clothes/head_coverings/bandana_simple",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 110,
       "conditions": {
         "anatomy.head.human_male": "male",
         "anatomy.head.human_male_elderly": "male",
@@ -15,7 +15,6 @@
     }
   },
   "poses": [
-    "hurt",
     "shoot",
     "slash",
     "spell",
@@ -30,31 +29,26 @@
         "clothes",
         "any"
       ]
-    },
-    "secondary": {
-      "name": "Skull",
-      "palettes": [
-        "clothes",
-        "any"
-      ]
     }
   },
   "colors": {
-    "primary": "red",
-    "secondary": "white"
+    "primary": "white"
   },
   "notes": [
+    "bigbeargames, but is original?",
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
   ],
   "authors": [
     "napsio",
-    "bluecarrot16",
-    "Fabzy"
+    "Michael Whitlock (bigbeargames)",
+    "Matthew Krohn (makrohn)",
+    "Marcel van de Steeg (MadMarcel)"
   ],
   "licenses": [
     "CC-BY-SA 3.0"
   ],
   "urls": [
-    "https://opengameart.org/content/lpc-pirates"
+    "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+    "https://github.com/makrohn/Universal-LPC-spritesheet/commit/f50007cb47c235d8896cafae7a613f0b6a9a09a8?short_path=02b86d4#diff-02b86d45789a3e3e8e79519c7d17d15c9e6ecc9b4ddecb1bcd8dfbbaef430b75"
   ]
 }

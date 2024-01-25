@@ -2,6 +2,7 @@
   "id": "clothes.hat.spangenhelm_viking",
   "name": "Spangenhelm_viking",
   "path": "clothes/hat/spangenhelm_viking",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

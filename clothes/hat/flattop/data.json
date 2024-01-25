@@ -2,6 +2,7 @@
   "id": "clothes.hat.flattop",
   "name": "Flattop",
   "path": "clothes/hat/flattop",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

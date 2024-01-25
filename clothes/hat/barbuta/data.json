@@ -2,6 +2,7 @@
   "id": "clothes.hat.barbuta",
   "name": "Barbuta",
   "path": "clothes/hat/barbuta",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

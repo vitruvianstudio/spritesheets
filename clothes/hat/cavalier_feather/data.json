@@ -2,6 +2,7 @@
   "id": "clothes.hat.cavalier_feather",
   "name": "Cavalier_feather",
   "path": "clothes/hat/cavalier_feather",
+  "group": "pirate",
   "layers": {
     "fg": {
       "z": 10,

@@ -2,6 +2,7 @@
   "id": "clothes.hat.horned",
   "name": "Horned",
   "path": "clothes/hat/horned",
+  "group": "helmet",
   "layers": {
     "fg": {
       "z": 10,

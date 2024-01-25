@@ -1,7 +1,7 @@
 {
-  "id": "equipment.shield.spartan",
+  "id": "equipment.shields.spartan",
   "name": "Spartan",
-  "path": "equipment/shield/spartan",
+  "path": "equipment/shields/spartan",
   "layers": {
     "fg": {
       "z": 110,
