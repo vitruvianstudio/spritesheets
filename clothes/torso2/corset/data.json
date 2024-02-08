@@ -4,7 +4,7 @@
   "path": "clothes/torso2/corset",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 15,
       "conditions": {
         "anatomy.body.female": "female",
         "anatomy.body.teen": "female",

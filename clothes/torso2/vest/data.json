@@ -4,7 +4,7 @@
   "path": "clothes/torso2/vest",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 15,
       "conditions": {
         "anatomy.body.male": "male",
         "anatomy.body.muscular": "male"

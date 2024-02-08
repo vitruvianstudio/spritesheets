@@ -2,6 +2,7 @@
   "id": "anatomy.hair.flat_top_fade",
   "name": "Flat_top_fade",
   "path": "anatomy/hair/flat_top_fade",
+  "group": "afro",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

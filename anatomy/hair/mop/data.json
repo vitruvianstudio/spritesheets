@@ -2,6 +2,7 @@
   "id": "anatomy.hair.mop",
   "name": "Mop",
   "path": "anatomy/hair/mop",
+  "group": "short",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(george)",

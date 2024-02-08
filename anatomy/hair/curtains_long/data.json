@@ -2,6 +2,7 @@
   "id": "anatomy.hair.curtains_long",
   "name": "Curtains_long",
   "path": "anatomy/hair/curtains_long",
+  "group": "long",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(trevor)",

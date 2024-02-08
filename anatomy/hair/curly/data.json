@@ -2,6 +2,7 @@
   "id": "anatomy.hair.curly",
   "name": "Curly",
   "path": "anatomy/hair/curly",
+  "group": "curly",
   "layers": {
     "fg": {
       "z": 120,
@@ -24,7 +25,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

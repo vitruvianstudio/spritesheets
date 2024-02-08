@@ -2,6 +2,7 @@
   "id": "anatomy.hair.pigtails_bangs",
   "name": "Pigtails_bangs",
   "path": "anatomy/hair/pigtails_bangs",
+  "group": "pigtails",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(astarea)",

@@ -29,9 +29,6 @@
     "walk",
     "idle"
   ],
-  "sizes": {
-    "walk": "lg"
-  },
   "materials": {
     "primary": {
       "name": "Bow",

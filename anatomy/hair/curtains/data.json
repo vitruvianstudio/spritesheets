@@ -2,6 +2,7 @@
   "id": "anatomy.hair.curtains",
   "name": "Curtains",
   "path": "anatomy/hair/curtains",
+  "group": "short",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(star)",

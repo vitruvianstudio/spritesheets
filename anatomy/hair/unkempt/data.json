@@ -2,6 +2,7 @@
   "id": "anatomy.hair.unkempt",
   "name": "Unkempt",
   "path": "anatomy/hair/unkempt",
+  "group": "short",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"

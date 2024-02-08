@@ -4,7 +4,7 @@
   "path": "clothes/torso/chainmail",
   "layers": {
     "fg": {
-      "z": 15,
+      "z": 10,
       "conditions": {
         "anatomy.body.male": "male",
         "anatomy.body.muscular": "male",

@@ -4,7 +4,7 @@
   "path": "clothes/waist/belt_loose",
   "layers": {
     "fg": {
-      "z": 20,
+      "z": 25,
       "conditions": {
         "anatomy.body.male": "male",
         "anatomy.body.muscular": "male",

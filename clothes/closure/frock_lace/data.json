@@ -4,7 +4,7 @@
   "path": "clothes/closure/frock_lace",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 25,
       "conditions": {
         "anatomy.body.male": ".",
         "anatomy.body.muscular": ".",

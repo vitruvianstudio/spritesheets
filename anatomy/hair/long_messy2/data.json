@@ -2,6 +2,7 @@
   "id": "anatomy.hair.long_messy2",
   "name": "Long_messy2",
   "path": "anatomy/hair/long_messy2",
+  "group": "long",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(shura)",

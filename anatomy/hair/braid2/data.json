@@ -2,6 +2,7 @@
   "id": "anatomy.hair.braid2",
   "name": "Braid2",
   "path": "anatomy/hair/braid2",
+  "group": "braid",
   "layers": {
     "fg": {
       "z": 120,
@@ -33,7 +34,7 @@
     }
   },
   "colors": {
-    "primary": "black"
+    "primary": "brown"
   },
   "notes": [
     "(lidia)",

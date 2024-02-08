@@ -4,7 +4,7 @@
   "path": "clothes/torso3/trench",
   "layers": {
     "fg": {
-      "z": 10,
+      "z": 20,
       "conditions": {
         "anatomy.body.male": "male",
         "anatomy.body.muscular": "male"
