@@ -2806,24 +2806,6 @@
         ]
       }
     },
-    "hook": {
-      "hook": {
-        "id": "anatomy.hook.hook",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-pirates"
-        ]
-      }
-    },
     "horns": {
       "backwards": {
         "id": "anatomy.horns.backwards",
@@ -2929,24 +2911,6 @@
         ],
         "urls": [
           "https://opengameart.org/content/lpc-base-character-expressions"
-        ]
-      }
-    },
-    "peg_leg": {
-      "peg_leg": {
-        "id": "anatomy.peg_leg.peg_leg",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-pirates"
         ]
       }
     },
@@ -3745,61 +3709,6 @@
           "https://opengameart.org/content/lpc-lizard-headgear"
         ]
       },
-      "bandana": {
-        "id": "clothes.hat.bandana",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Fabzy"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-pirates",
-          "https://opengameart.org/content/the-revolution-hair"
-        ]
-      },
-      "bandana_simple": {
-        "id": "clothes.hat.bandana_simple",
-        "notes": [
-          "bigbeargames, but is original?",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Michael Whitlock (bigbeargames)",
-          "Matthew Krohn (makrohn)",
-          "Marcel van de Steeg (MadMarcel)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
-          "https://github.com/makrohn/Universal-LPC-spritesheet/commit/f50007cb47c235d8896cafae7a613f0b6a9a09a8?short_path=02b86d4#diff-02b86d45789a3e3e8e79519c7d17d15c9e6ecc9b4ddecb1bcd8dfbbaef430b75"
-        ]
-      },
-      "bandana_skull": {
-        "id": "clothes.hat.bandana_skull",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Fabzy"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-pirates"
-        ]
-      },
       "barbarian": {
         "id": "clothes.hat.barbarian",
         "notes": [
@@ -4453,23 +4362,6 @@
           "https://opengameart.org/content/lpc-roman-armor"
         ]
       },
-      "mail": {
-        "id": "clothes.hat.mail",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Johannes Sj\u00f6lund (wulax)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
-        ]
-      },
       "maximus": {
         "id": "clothes.hat.maximus",
         "notes": [
@@ -4864,6 +4756,81 @@
         ],
         "urls": [
           "https://opengameart.org/content/four-characters-my-lpc-entries"
+        ]
+      }
+    },
+    "head_coverings": {
+      "bandana": {
+        "id": "clothes.head_coverings.bandana",
+        "notes": [
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "bluecarrot16",
+          "Fabzy"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-pirates",
+          "https://opengameart.org/content/the-revolution-hair"
+        ]
+      },
+      "bandana_simple": {
+        "id": "clothes.head_coverings.bandana_simple",
+        "notes": [
+          "bigbeargames, but is original?",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "Michael Whitlock (bigbeargames)",
+          "Matthew Krohn (makrohn)",
+          "Marcel van de Steeg (MadMarcel)"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+          "https://github.com/makrohn/Universal-LPC-spritesheet/commit/f50007cb47c235d8896cafae7a613f0b6a9a09a8?short_path=02b86d4#diff-02b86d45789a3e3e8e79519c7d17d15c9e6ecc9b4ddecb1bcd8dfbbaef430b75"
+        ]
+      },
+      "bandana_skull": {
+        "id": "clothes.head_coverings.bandana_skull",
+        "notes": [
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "bluecarrot16",
+          "Fabzy"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-pirates"
+        ]
+      },
+      "mail": {
+        "id": "clothes.head_coverings.mail",
+        "notes": [
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "Johannes Sj\u00f6lund (wulax)"
+        ],
+        "licenses": [
+          "OGA-BY 3.0",
+          "CC-BY-SA 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
         ]
       }
     },
@@ -5771,82 +5738,6 @@
       }
     },
     "torso": {
-      "apron": {
-        "id": "clothes.torso.apron",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Nila122"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 2.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-aprons"
-        ]
-      },
-      "apron_full": {
-        "id": "clothes.torso.apron_full",
-        "notes": [
-          "original apron by ElizaWy",
-          "extended to all animation frames and edited for v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "ElizaWy",
-          "bluecarrot16"
-        ],
-        "licenses": [
-          "OGA-BY 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "http://opengameart.org/content/lpc-clothing-updates"
-        ]
-      },
-      "apron_half": {
-        "id": "clothes.torso.apron_half",
-        "notes": [
-          "original apron by ElizaWy",
-          "extended to all animation frames and edited for v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "ElizaWy",
-          "bluecarrot16"
-        ],
-        "licenses": [
-          "OGA-BY 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "http://opengameart.org/content/lpc-clothing-updates"
-        ]
-      },
-      "bandage": {
-        "id": "clothes.torso.bandage",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Nila122"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 2.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-bandages"
-        ]
-      },
       "blouse": {
         "id": "clothes.torso.blouse",
         "notes": [
@@ -5904,74 +5795,12 @@
           "Johannes Sj\u00f6lund (wulax)"
         ],
         "licenses": [
+          "OGA-BY 3.0",
           "CC-BY-SA 3.0",
           "GPL 3.0"
         ],
         "urls": [
           "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
-        ]
-      },
-      "corset": {
-        "id": "clothes.torso.corset",
-        "notes": [
-          "original by Nila122",
-          "recolored by ElizaWy",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "ElizaWy",
-          "Nila122"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-7-womens-shirts",
-          "https://opengameart.org/content/lpc-clothes-and-hair"
-        ]
-      },
-      "leather": {
-        "id": "clothes.torso.leather",
-        "notes": [
-          "adapted to v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Michael Whitlock (bigbeargames)",
-          "Matthew Krohn (makrohn)",
-          "Johannes Sj\u00f6lund (wulax)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-          "http://opengameart.org/content/lpc-clothing-updates",
-          "https://opengameart.org/content/lpc-combat-armor-for-women"
-        ]
-      },
-      "legion": {
-        "id": "clothes.torso.legion",
-        "notes": [
-          "adapted to v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Nila122"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 2.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-roman-armor"
         ]
       },
       "longsleeve": {
@@ -6026,55 +5855,6 @@
         "urls": [
           "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
           "https://opengameart.org/content/lpc-pirates"
-        ]
-      },
-      "overall": {
-        "id": "clothes.torso.overall",
-        "notes": [
-          "original overalls by ElizaWy",
-          "extended to all animation frames",
-          "adapted from teen to male base",
-          "and edited for v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "ElizaWy",
-          "bluecarrot16"
-        ],
-        "licenses": [
-          "OGA-BY 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-revised-character-basics",
-          "http://opengameart.org/content/lpc-clothing-updates"
-        ]
-      },
-      "plate": {
-        "id": "clothes.torso.plate",
-        "notes": [
-          "original by wulax",
-          "adapted to female base by makrohn",
-          "recolor by bigbeargames",
-          " color reduced to 7 colors and adapted to v3 bases by bluecarrot16",
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Michael Whitlock (bigbeargames)",
-          "Matthew Krohn (makrohn)",
-          "Johannes Sj\u00f6lund (wulax)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-          "http://opengameart.org/content/lpc-clothing-updates",
-          "https://opengameart.org/content/lpc-combat-armor-for-women"
         ]
       },
       "robe": {
@@ -6305,9 +6085,181 @@
           "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
           "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more"
         ]
+      }
+    },
+    "torso2": {
+      "apron": {
+        "id": "clothes.torso2.apron",
+        "notes": [
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "Nila122"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 2.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-aprons"
+        ]
+      },
+      "apron_full": {
+        "id": "clothes.torso2.apron_full",
+        "notes": [
+          "original apron by ElizaWy",
+          "extended to all animation frames and edited for v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "ElizaWy",
+          "bluecarrot16"
+        ],
+        "licenses": [
+          "OGA-BY 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "http://opengameart.org/content/lpc-clothing-updates"
+        ]
+      },
+      "apron_half": {
+        "id": "clothes.torso2.apron_half",
+        "notes": [
+          "original apron by ElizaWy",
+          "extended to all animation frames and edited for v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "ElizaWy",
+          "bluecarrot16"
+        ],
+        "licenses": [
+          "OGA-BY 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "http://opengameart.org/content/lpc-clothing-updates"
+        ]
+      },
+      "corset": {
+        "id": "clothes.torso2.corset",
+        "notes": [
+          "original by Nila122",
+          "recolored by ElizaWy",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "ElizaWy",
+          "Nila122"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-7-womens-shirts",
+          "https://opengameart.org/content/lpc-clothes-and-hair"
+        ]
+      },
+      "leather": {
+        "id": "clothes.torso2.leather",
+        "notes": [
+          "adapted to v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "Michael Whitlock (bigbeargames)",
+          "Matthew Krohn (makrohn)",
+          "Johannes Sj\u00f6lund (wulax)"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+          "http://opengameart.org/content/lpc-clothing-updates",
+          "https://opengameart.org/content/lpc-combat-armor-for-women"
+        ]
+      },
+      "legion": {
+        "id": "clothes.torso2.legion",
+        "notes": [
+          "adapted to v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "bluecarrot16",
+          "Nila122"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 2.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-roman-armor"
+        ]
+      },
+      "overall": {
+        "id": "clothes.torso2.overall",
+        "notes": [
+          "original overalls by ElizaWy",
+          "extended to all animation frames",
+          "adapted from teen to male base",
+          "and edited for v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "ElizaWy",
+          "bluecarrot16"
+        ],
+        "licenses": [
+          "OGA-BY 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-revised-character-basics",
+          "http://opengameart.org/content/lpc-clothing-updates"
+        ]
+      },
+      "plate": {
+        "id": "clothes.torso2.plate",
+        "notes": [
+          "original by wulax",
+          "adapted to female base by makrohn",
+          "recolor by bigbeargames",
+          " color reduced to 7 colors and adapted to v3 bases by bluecarrot16",
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
+        ],
+        "authors": [
+          "napsio",
+          "bluecarrot16",
+          "Michael Whitlock (bigbeargames)",
+          "Matthew Krohn (makrohn)",
+          "Johannes Sj\u00f6lund (wulax)"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+          "http://opengameart.org/content/lpc-clothing-updates",
+          "https://opengameart.org/content/lpc-combat-armor-for-women"
+        ]
       },
       "vest": {
-        "id": "clothes.torso.vest",
+        "id": "clothes.torso2.vest",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6328,7 +6280,7 @@
         ]
       },
       "vest_open": {
-        "id": "clothes.torso.vest_open",
+        "id": "clothes.torso2.vest_open",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6349,9 +6301,9 @@
         ]
       }
     },
-    "torso2": {
+    "torso3": {
       "collared": {
-        "id": "clothes.torso2.collared",
+        "id": "clothes.torso3.collared",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6369,7 +6321,7 @@
         ]
       },
       "frock": {
-        "id": "clothes.torso2.frock",
+        "id": "clothes.torso3.frock",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6386,7 +6338,7 @@
         ]
       },
       "iverness": {
-        "id": "clothes.torso2.iverness",
+        "id": "clothes.torso3.iverness",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6403,7 +6355,7 @@
         ]
       },
       "santa": {
-        "id": "clothes.torso2.santa",
+        "id": "clothes.torso3.santa",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6421,7 +6373,7 @@
         ]
       },
       "tabard": {
-        "id": "clothes.torso2.tabard",
+        "id": "clothes.torso3.tabard",
         "notes": [
           "original by wulax",
           "edited to female base by makrohn and JaidynReiman",
@@ -6446,7 +6398,7 @@
         ]
       },
       "trench": {
-        "id": "clothes.torso2.trench",
+        "id": "clothes.torso3.trench",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6755,6 +6707,22 @@
         ]
       }
     },
+    "bow_accessory": {
+      "arrow": {
+        "id": "equipment.bow_accessory.arrow",
+        "notes": [],
+        "authors": [
+          "Johannes Sj\u00f6lund (wulax)"
+        ],
+        "licenses": [
+          "CC-BY-SA 3.0",
+          "GPL 3.0"
+        ],
+        "urls": [
+          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+        ]
+      }
+    },
     "misc": {
       "boomerang": {
         "id": "equipment.misc.boomerang",
@@ -6898,9 +6866,9 @@
         ]
       }
     },
-    "shield": {
+    "shields": {
       "crusader": {
-        "id": "equipment.shield.crusader",
+        "id": "equipment.shields.crusader",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6917,7 +6885,7 @@
         ]
       },
       "kite": {
-        "id": "equipment.shield.kite",
+        "id": "equipment.shields.kite",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6938,7 +6906,7 @@
         ]
       },
       "round": {
-        "id": "equipment.shield.round",
+        "id": "equipment.shields.round",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -6959,7 +6927,7 @@
         ]
       },
       "spartan": {
-        "id": "equipment.shield.spartan",
+        "id": "equipment.shields.spartan",
         "notes": [
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
@@ -7404,6 +7372,7 @@
       "pickaxe": {
         "id": "equipment.tools.pickaxe",
         "notes": [
+          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors",
           "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
         ],
         "authors": [
@@ -7412,12 +7381,20 @@
           "Pierre Vigier",
           "Tuomo Untinen",
           "Johannes Sj\u00f6lund (wulax)",
+          "Inboxninja",
+          "napsio",
+          "bluecarrot16",
+          "Pierre Vigier",
+          "Tuomo Untinen",
+          "Johannes Sj\u00f6lund (wulax)",
           "Inboxninja"
         ],
         "licenses": [
+          "CC-BY-SA 3.0",
           "CC-BY-SA 3.0"
         ],
         "urls": [
+          "https://opengameart.org/content/lpc-hand-tools",
           "https://opengameart.org/content/lpc-hand-tools"
         ]
       },
@@ -7475,102 +7452,6 @@
         ],
         "urls": [
           "https://opengameart.org/content/lpc-hand-tools"
-        ]
-      }
-    }
-  },
-  "weapons": {
-    "bow_accessory": {
-      "arrow": {
-        "id": "weapons.bow_accessory.arrow",
-        "notes": [],
-        "authors": [
-          "Johannes Sj\u00f6lund (wulax)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
-        ]
-      }
-    },
-    "shield": {
-      "crusader": {
-        "id": "weapons.shield.crusader",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Sander Frenken (castelonia)"
-        ],
-        "licenses": [
-          "OGA-BY 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-shields"
-        ]
-      },
-      "kite": {
-        "id": "weapons.shield.kite",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "DarkwallLKE",
-          "Tuomo Untinen (reemax)",
-          "Michael Whitlock (bigbeargames)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 2.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-kite-shield",
-          "https://opengameart.org/content/lpc-shields-pack"
-        ]
-      },
-      "round": {
-        "id": "weapons.shield.round",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "Johannes Sj\u00f6lund (wulax)",
-          "Michael Whitlock (bigbeargames)",
-          "DarkwallLKE",
-          "Tuomo Untinen (reemax)"
-        ],
-        "licenses": [
-          "CC-BY-SA 3.0",
-          "GPL 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-          "https://opengameart.org/content/lpc-shields-pack"
-        ]
-      },
-      "spartan": {
-        "id": "weapons.shield.spartan",
-        "notes": [
-          "2023-12 [napsio]: minimized colors to 6 for each material and fixed broken colors"
-        ],
-        "authors": [
-          "napsio",
-          "bluecarrot16",
-          "Sander Frenken (castelonia)"
-        ],
-        "licenses": [
-          "OGA-BY 3.0"
-        ],
-        "urls": [
-          "https://opengameart.org/content/lpc-shields"
         ]
       }
     }
